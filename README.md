@@ -1,3 +1,7 @@
+Created Disney+Hotstar clone website using React js .
+This website uses tmdb api for fetching informations and is completely responsive
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
